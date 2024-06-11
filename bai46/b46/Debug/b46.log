@@ -1,0 +1,17 @@
+﻿Build started 18/05/2024 9:34:45 AM.
+     1>Project "D:\020101058\b46\b46\b46.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt b46.cpp
+         b46.cpp
+     1>d:\020101058\b46\b46\b46.cpp(20): warning C4018: '<': signed/unsigned mismatch
+     1>d:\020101058\b46\b46\b46.cpp(43): warning C4018: '<': signed/unsigned mismatch
+     1>d:\020101058\b46\b46\b46.cpp(73): warning C4018: '<': signed/unsigned mismatch
+     1>d:\020101058\b46\b46\b46.cpp(87): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\020101058\b46\Debug\b46.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\020101058\b46\Debug\b46.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\020101058\b46\Debug\b46.lib" /MACHINE:X86 Debug\b46.obj
+         b46.vcxproj -> D:\020101058\b46\Debug\b46.exe
+     1>Done Building Project "D:\020101058\b46\b46\b46.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
